@@ -1,0 +1,2 @@
+I:6 I:4 I:2 L:F I:1 L:T L:M I:3 L:B L:O I:5 L:L L:A 
+L:F L:T L:M I:1 I:2 L:B L:O I:3 I:4 L:L L:A I:5 I:6 
